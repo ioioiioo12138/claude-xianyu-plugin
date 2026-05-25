@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "goofish": {
+      "command": "C:/Users/lenovo/AppData/Roaming/Python/Python314/Scripts/goofish-mcp.exe",
+      "description": "闲鱼自动化 - goofish-cli MCP (16 tools)",
+      "env": {
+        "GOOFISH_WRITE_RPM": "5"
+      }
+    }
+  }
+}

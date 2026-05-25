@@ -1,0 +1,12 @@
+{
+  "name": "xianyu",
+  "version": "1.0.0",
+  "description": "闲鱼自动化运营插件 — 商品上架、自动回复、推广动态一站式工作流，基于 goofish-cli MCP",
+  "author": {
+    "name": "xianyu-ai-operator"
+  },
+  "repository": "https://github.com/fancyboi999/claude-xianyu-plugin",
+  "license": "MIT",
+  "keywords": ["xianyu", "goofish", "ecommerce", "automation", "闲鱼", "自动化"],
+  "mcpServers": "./.mcp.json"
+}
