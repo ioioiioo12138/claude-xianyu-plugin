@@ -45,7 +45,16 @@ allowed-tools: Bash, Read, Write, Edit, Glob, Grep, mcp__goofish__search_items, 
 - 获取方式（暗号 + 自动秒发）
 - 常见问题（Q&A 3-5 个）
 
-> 文案风格参考 copywriting-pro skill（如已安装）。若无，遵循：短句短段、适度 Emoji、口语化、不提品牌敏感词。
+> 文案风格参考 copywriting-pro skill（如已安装）。若无，遵循：短句短段、适度 Emoji、口语化。
+
+**⚠️ 平台敏感词规避**：闲鱼会检测竞品 App 名称（如小红书、抖音、淘宝、拼多多等），标题和描述中必须使用替代词：
+- 小红书 → 小红薯
+- 抖音 → 抖声/短视频平台
+- 淘宝 → 某宝
+- 微信 → 薇信/绿泡泡
+- 类似处理其他竞品名称
+
+> delivery/ 交付文件不受此限制，因为客户收货后看，不在闲鱼公开展示。
 
 **暗号**：每个商品一个独特英文关键词（如 xiaohongshu, quanjiatong），用于触发自动回复。
 
